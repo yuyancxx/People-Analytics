@@ -2,4 +2,4 @@
 Insights: Employee Retention
 
 
-<img src = "people_img.png" width = "600" height = "300"> 
+<img src = "people_img.jpeg" width = "600" height = "300"> 
